@@ -19,7 +19,7 @@ Overview
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[WHAT SHOULD I WRITE HERE ?](https://github.com/tkmmtsk/)
 
 ## Author
 
