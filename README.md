@@ -72,8 +72,15 @@ Or
 
 ## Licence
 
-[WHAT SHOULD I WRITE HERE ?](https://github.com/tkmmtsk/)
+Write here about licence.
+F.I.Y. [URL](http://qiita.com/tadsan/items/99d816e78ca429093b75)
+
+Or ofcourse, write here with another file.
+Like [this URL](https://github.com/peco/peco/blob/master/LICENSE)
 
 ## Author
 
-[tkmmtsk](https://github.com/tkmmtsk)
+Write my name.
+Write author name.
+
+Takuma Matsuoka
