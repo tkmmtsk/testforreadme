@@ -13,9 +13,31 @@ I don't have any Demo but you should write here like [this](http://qiita.com/tak
 
 ## VS. 
 
+Here is some differences of origin example.
+I will write here the differences with itemization.
+Here is the sample.
+
+1. testtesttest
+2. testtesttest
+3. testtesttest
+
 ## Requirement
 
+ If I need to use some tools or some libraries, I should write this in here.
+ 
+ E.G.
+ "You need to iOS version 10.3.2."
+ "You need to download Swift3.0."
+ etc....
+ 
 ## Usage
+
+Write here how to use.
+
+E.G.
+(If command, write command here.)
+
+[This URL](https://github.com/motemen/ghq) gives some inspirations about Usage.
 
 ## Install
 
